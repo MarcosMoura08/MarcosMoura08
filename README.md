@@ -1,6 +1,6 @@
 - 👋 Olá, meu nome é Marcos Moura
 - 👀 Estou interessado em desenvolvimento front end
-- 🌱 Atualmente estou aprendendo as tecnologias HTML,CSS,Bootstrap e Java Script
+- 🌱 Atualmente estou aprendendo as tecnologias HTML,CSS, Java Script, React Native
 - 📫entre em contato comigo via whatsapp 964226633 ou email: marcos.work1998@gmail.com
 
 <!---
